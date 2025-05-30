@@ -1,4 +1,3 @@
-# mi-proyecto-web
 <!DOCTYPE html>
 <html lang="es">
 <head>
